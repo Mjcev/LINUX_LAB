@@ -11,19 +11,19 @@ Este laboratorio tiene como objetivo familiarizar al estudiante con los comandos
 
 ## Pasos de preparación
 
-1. Descarga el script `preparar_escenario.sh` desde el repositorio.
+1. Descarga el script `preparar_escenario_01.sh` desde el repositorio.
 2. Otorga permisos de ejecución al script:
     ```bash
-    chmod +x preparar_escenario.sh
+    chmod +x preparar_escenario_01.sh
     ```
 3. Ejecuta el script para crear el escenario de prueba:
     ```bash
-    ./preparar_escenario.sh
+    ./preparar_escenario_01.sh
     ```
 
 ## Tarea
 
-1. Navega al directorio `practica_linux`.
+1. Navega al directorio `practica_linux_01`.
 2. Muestra el contenido del directorio con `ls` y experimenta con diferentes opciones (`-l`, `-a`, `-R`, etc.).
 3. Ingresa al directorio `docs` y muestra su contenido.
 4. Lee el contenido del archivo `introduccion.txt` con `cat`.
@@ -47,3 +47,4 @@ Este laboratorio tiene como objetivo familiarizar al estudiante con los comandos
 - ¿Navegaste correctamente entre los directorios?
 - ¿Lograste leer el contenido de los archivos especificados?
 - ¿Identificaste y leíste el archivo oculto?
+
