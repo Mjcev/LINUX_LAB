@@ -8,6 +8,7 @@ Bienvenido al repositorio de Laboratorios de Linux y Administración de Servidor
 1. [Lab_00: Navegación y Gestión de Directorios](https://github.com/Mjcev/LINUX_LAB/blob/master/Lab_00) 
 2. [Lab_01: Comandos Básicos de Linux](https://github.com/Mjcev/LINUX_LAB/tree/master/Lab_01)
 3. [Lab_02: Uso de `grep` y Operador de Tubería (pipe)](https://github.com/Mjcev/LINUX_LAB/tree/master/Lab_02)
+4. [Lab_03: Gestion de permisos, usuarios y grupos](https://github.com/Mjcev/LINUX_LAB/tree/master/Lab_03)
 <!-- Agrega más laboratorios en la lista conforme los crees. -->
 
 ## 🎯 Objetivo
